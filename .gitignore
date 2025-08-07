@@ -52,3 +52,4 @@ fastlane/test_output
 # Node modules (if using Node.js)
 node_modules/
 package-lock.json
+dist/
