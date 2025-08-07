@@ -1,4 +1,4 @@
-# screen-time-tracker
+# Time Tracker React Hook
 
 A simple React hook library to track time spent in screen (window focus) and measure custom time intervals.
 
@@ -10,4 +10,4 @@ A simple React hook library to track time spent in screen (window focus) and mea
 ## 📦 Installation
 
 ```bash
-npm install screen-time-tracker
+npm install @rafaelmancebo/time-tracker-react-hook
