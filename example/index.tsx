@@ -1,5 +1,5 @@
 import React from 'react';
-import { useWindowFocus, useTimer } from '@rafaelmancebo/time-tracker-react-hook';
+import { useWindowFocus, useTimer } from '@ramg9206/time-tracker-react-hook';
 
 function App() {
     const { start, end, elapsed } = useTimer({
