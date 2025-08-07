@@ -1,6 +1,6 @@
 {
     "name": "@ramg9206/time-tracker-react-hook",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A React hook library to track time spent on screen or in specific activities.",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
