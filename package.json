@@ -1,0 +1,29 @@
+{
+    "name": "@rafaelmancebo/time-tracker-react-hook",
+    "version": "1.0.0",
+    "description": "A React hook library to track time spent on screen or in specific activities.",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [
+        "react",
+        "hooks",
+        "focus",
+        "time",
+        "screen",
+        "timer",
+        "useEffect",
+        "typescript"
+    ],
+    "author": "Rafael Mancebo",
+    "license": "MIT",
+    "peerDependencies": {
+        "react": "^17.0.0 || ^18.0.0"
+    },
+    "devDependencies": {
+        "@types/react": "^19.1.9",
+        "typescript": "^5.0.0"
+    }
+}
